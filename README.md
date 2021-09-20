@@ -1,8 +1,8 @@
 # my_portfolio
-This is my portfolio Website page made using simple HTML, CSS. It containes various links to my codding and social media platform. The page has some animation and glassmorphic design content. I needed a webpage to showcase my portfolio ,so that is the reason i made it. This site was made in a small time span so there are imperfections in design. Hopefully i update it soon with fresh design.
+This is my portfolio Website page made using simple HTML, CSS. It containes various links to my codding and social media platform. The page has some animation and glassmorphic design content. I needed a webpage to showcase my portfolio ,so that is the reason i made it. This site was made in a small time span so there are imperfections in design. Hopefully i will update it soon with fresh design.
 
 ## View Page
-my_portfolio: [Here](https://pages.github.com/).
+my_portfolio: [Here](https://adilayyoob.github.io/my_portfolio/index.html).
 
 ## Initial UI
 ### Desktop View

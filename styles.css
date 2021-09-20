@@ -1,0 +1,222 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-y: hidden;
+    background-color:  rgb(197, 7, 204);
+}
+
+.main_container{
+    position: relative;
+}
+
+.layer_one{
+    position: absolute;
+    width: 100%;
+   
+}
+.layer_one img{
+    width: 100%;
+}
+
+.free_space{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(197, 7, 204);
+}
+
+
+/* layer two */
+.layer_two{
+    width: 1100px;
+    padding-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 100%;
+   
+}
+
+.white_strip{
+    background-color: white;
+    position: absolute;
+    width: 330px;
+    height: 500px;
+    border-radius: 35px 0px 0px 35px;
+}
+
+.white_strip i{
+    color: rgb(197, 7, 204);
+}
+
+a :hover{
+    color: #60FFAB;
+}
+
+.white_strip td:nth-child(2) :hover{
+    color: #60FFAB;
+}
+.white_strip table{
+    height: 100%;
+    margin-left: 25px;
+}
+
+.white_strip td:nth-child(2) a{
+    padding-left: 20px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+
+.white_strip_side{
+    width: 770px;
+    height: 500px;
+    position: absolute;
+    left: 330px;
+    border-radius: 0px 35px 35px 0px;
+
+}
+
+.glass_header{
+    width: 100%;
+    height: 120px;
+    border-radius: 0px 35px 0px 0px;
+    background: linear-gradient(90deg, #EECBF7 0%, #CA00FD 0%, rgba(196, 196, 196, 0.0864585) 99.99%, rgba(196, 196, 196, 0) 100%);
+    backdrop-filter: blur(50px);
+}
+
+.glass_header p:nth-child(1){
+    font-size: 64px;
+    color: #60FFAB;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+.glass_header p:nth-child(2){
+    font-size: 24px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.glass_header p{
+    margin-left: 50px;
+}
+
+.glass_body{
+    background: linear-gradient(19.45deg, #FFFFFF -93.67%, rgba(255, 255, 255, 0) 90.43%);
+    backdrop-filter: blur(50px);
+    border-radius: 0px 0px 35px 0px;
+    padding-left: 50px;
+    height: 380px;
+    overflow-y: scroll;
+}
+
+.glass_body p{
+    padding-top: 20px;
+    font-size: 24px;
+    color: #60FFAB;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.glass_body img{
+    margin-top: 10px;
+    width: 480px;
+    height: 185px;
+}
+
+.content{
+    margin-top: 10px;
+}
+
+.content td{
+    font-size: 16px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding-top: 10px;
+    vertical-align: top;
+}
+
+.content table:nth-child(1) td:nth-child(2){
+    padding-left: 50px;    
+}
+
+.content table:nth-child(2) td:nth-child(2),td:nth-child(3){
+    padding-left: 65px; 
+}
+
+.content i{
+    color: #60FFAB;
+}
+
+.content span{
+    color: #60FFAB;
+}
+
+.sub span{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.dot{
+    text-align: center;
+}
+
+/* layer three */
+.layer_out{
+    left: 26%;
+    position: absolute;
+    top: 0; 
+}
+
+.layer_three{
+    padding: 10px 10px 10px 10px;
+    background: linear-gradient(135deg, #60FFAB 15.36%, rgba(0, 0, 0, 0) 90.25%);
+    border-radius: 360px;
+    width: 200px;
+    height: 200px;
+    backdrop-filter: blur(50px);
+    margin-top: 60px;
+}
+
+.layer_three img{
+    border-radius: 360px;
+    width: 180px;
+    height: 180px;
+}
+
+.layer_three :hover{
+    box-shadow: 0px 4px 42px 61px rgba(236, 32, 185, 0.25);
+}
+/* scroll bar */
+
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(96, 255, 171, 0.4);
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 7px;
+}
+
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(96, 255, 171, 0.4);
+  border-radius: 20px;
+}
+

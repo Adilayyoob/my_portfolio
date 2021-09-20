@@ -9,7 +9,8 @@ my_portfolio: [Here](https://pages.github.com/).
 ![Frame 2](https://user-images.githubusercontent.com/67414716/134032235-c5525cfd-551c-4b4a-99b0-ada98a18cf22.png)
 
 ### Smart Phone view
-![Frame 3](https://user-images.githubusercontent.com/67414716/134032761-2abaadf6-efa6-4a18-89be-83123b05aebb.png)
+![Frame 3](https://user-images.githubusercontent.com/67414716/134036179-ffd294d5-8c9e-4597-a862-6ce806e01741.png)
+
 
 ## Libraries used
 - animate.css

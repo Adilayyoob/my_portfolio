@@ -17,6 +17,8 @@ my_portfolio: [Here](https://pages.github.com/).
 - font-awesome
 - ionicons
 - wow
+- fonts
+  - Montserrat 600, 700, 900
 
 ## my_portfolio App
 I also created an App with similar design while learning basics of flutter.

@@ -392,6 +392,10 @@
     .content table:nth-child(1) td:nth-child(1){
         font-size: 10px;
     }
+
+    .content table:nth-child(2) td:nth-child(1){
+        font-size: 10px;  
+    }
     
     .content table:nth-child(2) td:nth-child(2),td:nth-child(3){
         padding-left: 20px; 
@@ -461,6 +465,10 @@
     }
     .content table:nth-child(1) td:nth-child(1){
         font-size: 10px;
+    }
+
+    .content table:nth-child(2) td:nth-child(1){
+        font-size: 10px;  
     }
     
     .content table:nth-child(2) td:nth-child(2),td:nth-child(3){

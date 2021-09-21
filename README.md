@@ -4,7 +4,7 @@ This is my portfolio Website page made using simple HTML, CSS. It containes vari
 ## View Page
 my_portfolio: [Here](https://adilayyoob.github.io/my_portfolio/index.html).
 
-## Initial UI
+## Initial UI/UX
 ### Desktop View
 ![Frame 2](https://user-images.githubusercontent.com/67414716/134032235-c5525cfd-551c-4b4a-99b0-ada98a18cf22.png)
 
